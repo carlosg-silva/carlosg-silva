@@ -10,6 +10,10 @@
    <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=carlosg-silva&layout=compact&langs_count=7&theme=onedark"/>
   
 </div>
+ 
+ ##
+ 
+ ### Linguagens que utilizo :
   
   <div style="display: inline_block"><br>
     <img align="center" alt="Carlos-HTML" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
@@ -18,6 +22,8 @@
 </div>
   
   ##
+ 
+ ### Redes sociais :
   
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/carlos-antonio-647bb51b1/)
   
