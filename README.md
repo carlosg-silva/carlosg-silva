@@ -2,7 +2,7 @@
 ### Bem vindo(a) ao meu perfil no github! 👋
 
 - 🔭 Atualmente trabalho com suporte e infraestrutura de TI na empresa Village Home Center.
-- 🌱 Estudando Analise e Desenvolvimento de Sistemas pela Universidade Paulista (UNIP) e Desenvolvimento Front End.
+- 🎓 Formado em Analise e Desenvolvimento de Sistemas pela Universidade Paulista (UNIP) e Desenvolvimento Front End.
 
  <div>
   <a href="https://github.com/carlosg-silva">
