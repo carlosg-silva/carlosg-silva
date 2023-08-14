@@ -21,6 +21,7 @@
     <img align="center" alt="Carlos-Js" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
     <img align="center" alt="Carlos-Js" height="50" width="60" src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-plain-wordmark.svg">
     <img align="center" alt="Carlos-Js" height="50" width="60" src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg">
+     <img align="center" alt="Carlos-Js" height="50" width="60" src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg">
   
    
 </div>
